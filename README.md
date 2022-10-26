@@ -1,8 +1,12 @@
 # DTU_Bank_Statement_Audit_Application
 The application can be used to convert the bank statement records in a format fit for further analysis and reporting.
+
+Uploading DTU_BankStatementAuditApp.mp4…
+
+
 Convert the records from the Initial format to the Final Format.
 
-Input: An Excel File
+Input: An Excel File.
 Output: An Excel File
 
 ## Initial Format
